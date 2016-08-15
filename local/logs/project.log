@@ -1,0 +1,50 @@
+2016-08-15T16:09:45.321Z - normal: Load ~/.CocosCreator/settings.json
+2016-08-15T16:09:45.325Z - normal: checking language setting...
+2016-08-15T16:09:45.326Z - normal: Language: zh
+2016-08-15T16:09:45.359Z - success: protocol editor-framework registered
+2016-08-15T16:09:45.359Z - success: protocol app registered
+2016-08-15T16:09:45.359Z - success: protocol packages registered
+2016-08-15T16:09:45.360Z - success: protocol theme registered
+2016-08-15T16:09:45.360Z - success: protocol unpack registerred
+2016-08-15T16:09:45.710Z - normal: connected!
+2016-08-15T16:09:45.716Z - normal: Check project /Users/tangjingquan/Desktop/SanBattle
+2016-08-15T16:09:45.719Z - normal: Initializing Cocos Creator Editor
+2016-08-15T16:09:46.453Z - normal: Initializing Cocos2d
+2016-08-15T16:09:46.690Z - normal: Initializing Asset Database
+2016-08-15T16:09:46.721Z - success: protocol uuid registerred
+2016-08-15T16:09:46.721Z - success: protocol db registerred
+2016-08-15T16:09:46.722Z - success: protocol thumbnail registerred
+2016-08-15T16:09:46.722Z - normal: Loading editor/builtin packages
+2016-08-15T16:09:46.899Z - success: assets loaded
+2016-08-15T16:09:46.904Z - success: builder loaded
+2016-08-15T16:09:46.912Z - success: hierarchy loaded
+2016-08-15T16:09:46.921Z - success: inspector loaded
+2016-08-15T16:09:46.924Z - success: keystore loaded
+2016-08-15T16:09:46.931Z - success: node-library loaded
+2016-08-15T16:09:46.937Z - success: preferences loaded
+2016-08-15T16:09:46.960Z - success: project-importer loaded
+2016-08-15T16:09:46.964Z - success: project-settings loaded
+2016-08-15T16:09:46.969Z - success: ui-kit loaded
+2016-08-15T16:09:46.974Z - success: ui-grid loaded
+2016-08-15T16:09:46.980Z - success: scene loaded
+2016-08-15T16:09:46.983Z - success: sprite-editor loaded
+2016-08-15T16:09:46.991Z - success: timeline loaded
+2016-08-15T16:09:46.992Z - normal: Loading builtin packages
+2016-08-15T16:09:46.998Z - success: asset-db-debugger loaded
+2016-08-15T16:09:47.001Z - success: cocos-package loaded
+2016-08-15T16:09:47.004Z - success: code-editor loaded
+2016-08-15T16:09:47.006Z - success: color-picker loaded
+2016-08-15T16:09:47.014Z - success: console loaded
+2016-08-15T16:09:47.019Z - success: package-manager loaded
+2016-08-15T16:09:47.024Z - success: tester loaded
+2016-08-15T16:09:47.029Z - success: ui-kit-preview-extra loaded
+2016-08-15T16:09:47.033Z - success: ui-kit-preview loaded
+2016-08-15T16:09:47.038Z - success: ui-tree loaded
+2016-08-15T16:09:47.072Z - normal: Initializing project /Users/tangjingquan/Desktop/SanBattle
+2016-08-15T16:09:47.074Z - normal: Loading packages
+2016-08-15T16:09:47.080Z - normal: Run Application
+2016-08-15T16:09:47.697Z - success: preview server running at http://localhost:7456
+2016-08-15T16:09:47.697Z - normal: Compiling scripts...
+2016-08-15T16:09:49.542Z - normal: Compiled successfully
+2016-08-15T16:09:53.321Z - normal: 1.2.1-beta.3
+2016-08-15T16:10:04.439Z - info: shutdown preview server
